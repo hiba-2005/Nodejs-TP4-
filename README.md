@@ -1,3 +1,4 @@
+
 # 📚 TP 4 — Application Bibliothèque
 
 **Node.js • Express • EJS • PostgreSQL**
@@ -149,6 +150,9 @@ http://localhost:3000
 * Formulaires modernes
 * Badges de disponibilité
 * Navigation simple et intuitive
+
+  
+https://github.com/user-attachments/assets/9a87c1e2-7858-4a6c-af61-fa112da2d308
 
 ---
 
